@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "animate-old-photos": {
+      "type": "http",
+      "url": "https://animateoldphotos.org/api/mcp"
+    }
+  }
+}
