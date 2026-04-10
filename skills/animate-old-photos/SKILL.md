@@ -18,9 +18,9 @@ Animate old photos into AI-generated videos via MCP tools.
 >
 > - Official Website: [Animate Old Photos](https://animateoldphotos.org/)
 > - Get your API key: [Profile > API Key](https://animateoldphotos.org/profile/interface-key)
-> - Purchase credits: [Buy Credits](https://animateoldphotos.org/stripe)
+> - Purchase credits: [Buy Credits](https://animateoldphotos.org/pricing)
 >
-> Each animation costs **3 credits**. [View pricing plans](https://animateoldphotos.org/stripe)
+> Each animation costs **3 credits**. [View pricing plans](https://animateoldphotos.org/pricing)
 
 ## Available MCP Tools
 
@@ -52,7 +52,7 @@ If omitted, the AI will auto-generate appropriate motion.
 ## Error Handling
 
 - **Invalid API key** — Direct user to: https://animateoldphotos.org/profile/interface-key
-- **Insufficient credits** — Direct user to: https://animateoldphotos.org/stripe
+- **Insufficient credits** — Direct user to: https://animateoldphotos.org/pricing
 - **Task failed** — Suggest retrying with a different prompt or image. Credits are refunded on failure.
 
 ## Constraints

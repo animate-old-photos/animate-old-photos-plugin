@@ -1,0 +1,20 @@
+{
+  "name": "animate-old-photos",
+  "description": "Animate old photos into AI-generated videos. Turn old photos into videos, bring photos to life with AI. Requires a paid API key from animateoldphotos.org.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Animate Old Photos",
+    "url": "https://animateoldphotos.org"
+  },
+  "homepage": "https://animateoldphotos.org",
+  "license": "MIT",
+  "keywords": [
+    "animate",
+    "old-photos",
+    "photo-to-video",
+    "ai",
+    "video",
+    "mcp",
+    "image-animation"
+  ]
+}
